@@ -1,11 +1,10 @@
-@@ -1,3 +1,6 @@
- <b>Hey guys..!<br>
+<b>Hey guys..!<br>
    I am Priya from Dhanekula University<br>
    This project is mainly using python and opencv.<br></b>
  # LiveSNAKEGAME
  
  A Game built using python and computervision(openCV).
- @@ -8,6 +11,7 @@ after successsful execution using the livecam the hand gets recognised and food
+after successsful execution using the livecam the hand gets recognised and food
  try to est as much food as u can,if u touch the tail thatsit GAMEOVER.  again u can restart it by pressing "r" key in keyboard.
  
  
